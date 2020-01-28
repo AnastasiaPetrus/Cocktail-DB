@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.9.1)
+  - MBProgressHUD (1.2.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - R.swift (5.1.0):
+    - R.swift.Library (~> 5.1.0)
+  - R.swift.Library (5.1.0)
+  - Result (4.1.0)
+  - SDWebImage (5.5.1):
+    - SDWebImage/Core (= 5.5.1)
+  - SDWebImage/Core (5.5.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MBProgressHUD (~> 1.2.0)
+  - Moya (~> 13.0)
+  - R.swift
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MBProgressHUD
+    - Moya
+    - R.swift
+    - R.swift.Library
+    - Result
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  R.swift: 8cbc4fc69b740305b6a17c8a8ed968eb788962d9
+  R.swift.Library: fa85ce1e0d0b7e818cd9e080df910ba54d2776cc
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SDWebImage: 1245d058b7b8f59adef7a6da6bbafd4f1ab67041
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: fcf62e9ed16045628fad7ddc679589916a779a8a
+
+COCOAPODS: 1.8.4
